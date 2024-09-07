@@ -15,6 +15,7 @@ The result can be copied afterwards.
 
 ## Known issues
 If there are numbers in your Equation (e.g. 3*b + x) then there is a bug where it does not give a symbolic answer. The answer seems to be correct nevertheless and if you need the symbolic you can just add a variable instead of the number with error 0 and then replace it again. This works fine.
+
 ---
 ## Building
 
