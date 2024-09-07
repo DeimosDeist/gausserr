@@ -10,7 +10,7 @@ I think there are better ones out there, I just could not find a good enough web
 - Displays symbolic and numerical results.
 
 ## Usage
-Run the program as an executable or as a script and enter the equations. Variables _can_ be longer than just one letter.
+Run the program as an executable (find the releases [here](https://github.com/DeimosDeist/gausserr/releases)) or as a script and enter the equations. Variables _can_ be longer than just one letter.
 The result can be copied afterwards.
 
 ## Known issues
