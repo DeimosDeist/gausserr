@@ -3,6 +3,18 @@ This is a sympy and tkinter gui tool written in python to just get gaussian erro
 
 I think there are better ones out there, I just could not find a good enough website that did not make me want to quit.
 
+## Features
+
+- Enter an equation with variables and their associated errors.
+- Optional: Provide values for the variables to compute actual and relative errors.
+- Displays symbolic and numerical results.
+
+## Usage
+Run the program as an executable or as a script and enter the equations. Variables _can_ be longer than just one letter.
+The result can be copied afterwards.
+
+## Known issues
+If there are numbers in your Equation (e.g. 3*b + x) then there is a bug where it does not give a symbolic answer. The answer seems to be correct nevertheless and if you need the symbolic you can just add a variable instead of the number with error 0 and then replace it again. This works fine.
 ---
 ## Building
 
